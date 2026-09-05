@@ -22,5 +22,10 @@ Power BI, Power Query Editor, DAX, Charts & Slicers
 - Approximately 80% of sales are traditional, indicates an opportunity to strengthen online sales. -April records the lowest sales and order volumes for all the categories, followed by a recovery in the month of May, suggests a recurring seasonal pattern in customer purchasing. Focusing on the need of an investigation in the category, AOV or sales channel.
 - Sales are highly influenced by the number of orders.
 - Sales and order volume are showing a significant rise, signifying the strongest performance toward year-end.
+  
 ## 🖼️ Dashboard Preview
+ Page 1: <img width="1165" height="646" alt="Dashboardpage1" src="https://github.com/user-attachments/assets/e80ad102-c40a-4c99-8344-55a01cf2cf45" />
+
+ Page 2: <img width="1085" height="607" alt="Dashboardpage2" src="https://github.com/user-attachments/assets/a4241b12-8a2a-41e1-acbe-4e789d39e297" />
+
 
